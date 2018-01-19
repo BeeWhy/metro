@@ -1,4 +1,4 @@
-[{"name":"Уручча", "latitude":53.9453522, "longitude":27.687875},
+{ "stations": [{"name":"Уручча", "latitude":53.9453522, "longitude":27.687875},
 {"name":"Барысаўскі тракт", "latitude":53.9384151, "longitude":27.6663906},
 {"name":"Усход", "latitude":53.9344685, "longitude":27.6512773},
 {"name":"Маскоўская", "latitude":53.9279647, "longitude":27.6277723},
@@ -13,4 +13,4 @@
 {"name":"Міхалова", "latitude":53.8769478, "longitude":27.4948901},
 {"name":"Пятроўшчына", "latitude":53.8640599, "longitude":27.4832125},
 {"name":"Малінаўка", "latitude":53.8494515, "longitude":27.4749699},
-{"name":"error", "latitude":0.00, "longitude":0.00}]
+{"name":"error", "latitude":0.00, "longitude":0.00}]}
